@@ -29,9 +29,9 @@
     spring.application.name=Test_Task
     server.port=9080
 
-    spring.datasource.url=jdbc:postgresql://localhost:5432/database_task
-    spring.datasource.username=postgres
-    spring.datasource.password=1234
+    spring.datasource.url=jdbc:postgresql://localhost:5432/database
+    spring.datasource.username=username
+    spring.datasource.password=userpassword
     ```
 
 5. **Запустите приложение:**
